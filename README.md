@@ -19,12 +19,12 @@ A ideia [pra uma versão mais ambiciosa] desse projeto é fazer um levantamento 
 
 ## Etapa 1 
 
-- Conversas informais para elaboração de questionário (Google Forms)
+- Conversas informais para elaboração de questionário inicial (Google Forms). Questionário quase inteiro de questões abertas e opcionais, exceto pelas de ferramentas/softwares mais usados. Essa parte a gente quantifica e dá uns gráficos bonitinhos. A parte das respostas abertas dá material pra discutir e virar blogs.
 
 ## Etapa 2 
 
-- Piloto de questionário contendo opções mais comuns encontradas informalmente
-  - Rodar entre colegas próximos para feedback e aprimoramento
+- Piloto de questionário contendo opções mais comuns encontradas informalmente.
+- Rodar entre colegas próximos para feedback e aprimoramento. Mais pessoas precisam se envolver pra que o formulário inicial já seja minimamente representativo.
   
 ## Etapa 3 
 
@@ -36,7 +36,7 @@ A ideia [pra uma versão mais ambiciosa] desse projeto é fazer um levantamento 
   - Ter medida quantitativa sobre o uso de diferentes plataformas (de amostra não aleatória, vale lembrar) 
   - avaliar qualitativamente as dificuldades encontradas. 
 
-- Detalhar alguns casos mais estruturados (Tiago, Kleber, Juliane). Buscar pesquisadores em diferentes momentos da carreira. 
+- Detalhar alguns casos mais estruturados (Tiago, Kleber, Juliane) que servem de exemplo de respostas ao questionário. Buscar pesquisadores em diferentes momentos da carreira (e tem que ter uma pergunta pra isso).
 
 ## Etapa 5 (concomitante com anteriores)
 
