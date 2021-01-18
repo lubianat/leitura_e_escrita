@@ -1,16 +1,18 @@
 
 # Introdução 
 
-A ideia desse projeto é estudar os diferentes métodos e instrumentos empregados por cientistas para:
+A ideia [pra uma versão mais ambiciosa] desse projeto é fazer um levantamento dos diferentes métodos e instrumentos empregados por cientistas e laboratórios para executar diversas atividades comuns, relacionadas a pesquisa:
   
-  - Selecionar artigos para ler
-  - Organizar leituras a serem efetuadas
-  - Organizar o tempo dedicado a essas leituras 
-  - Efetivamente ler
-  - Anotar
-  - Organizar notas e artigos lidos
-  - Escrever textos científicos
-  - Adicionar literatura como referencia aos textos escritos
+  - Leitura de artigos (seleção do que ler, organização, tempo pra leitura, anotações, etc)
+  - Escrita de artigos (editores de texto, colaboração, gerenciamento de referências, figuras, etc)
+  - Escrita de código/software (editores, IDEs, colaboração, técnicas de programação, etc)
+  - Preparo de apresentações e palestras (slides e recursos audiovisuais, técnicas pra falar em público, mensagem, etc)
+  - Gerenciamento de tempo (listas, priorização, ferramentas úteis, calendário, etc)
+  - Organização de dados (protocolos, registro de dados, organização de arquivos, etc)
+  
+  - Reuniões de orientação (frequência, individual ou em grupo, organização, etc)
+  - Seminários/journal clubs (esquema de apresentações, de discussões, etc)
+  - Rotina de trabalho (horários, dias, metas, flexibilidade, etc)
   
   
 # Método
